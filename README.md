@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)
+![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Fweb-development-banner-icon-business-website-1812243436&psig=AOvVaw0CvwriE2JCvqrePAMbK9Gd&ust=1714748446074000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOjuxPGd74UDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Ajith kumar</h1>
 <h3 align="center">A passionate full stack developer and pentester from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3c5ZTRkeDN5aDdwaGc5bXg0N295YjBoNjB2ZjlkZnFlZHIwczJ6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
