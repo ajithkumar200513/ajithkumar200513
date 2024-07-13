@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3c5ZTRkeDN5aDdwaGc5bXg0N295YjBoNjB2ZjlkZnFlZHIwczJ6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajithkumar200513&label=Profile%20views&color=0e75b6&style=flat" alt="ajithkumar200513" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@ajithkumar20050" target="blank"><img src="https://img.shields.io/twitter/follow/@ajithkumar20050?logo=twitter&style=for-the-badge" alt="@ajithkumar20050" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@ajithkumar20013" target="blank"><img src="https://img.shields.io/twitter/follow/@ajithkumar20050?logo=twitter&style=for-the-badge" alt="@ajithkumar20050" /></a> </p>
 
 
 - 🌱 I’m currently learning 𝗙𝘂𝗹𝗹 𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
