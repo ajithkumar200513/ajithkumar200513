@@ -4,8 +4,6 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3c5ZTRkeDN5aDdwaGc5bXg0N295YjBoNjB2ZjlkZnFlZHIwczJ6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <br>
 <br>
-
-
 💫𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:
 
 <br><br>🌱 I’m currently learning 𝗙𝘂𝗹𝗹 𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗔𝗜
