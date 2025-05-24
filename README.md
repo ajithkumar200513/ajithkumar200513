@@ -6,7 +6,7 @@
 <br>
 
 
-💫 About me:
+💫𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:
 <br><br>🌱 I’m currently learning 𝗙𝘂𝗹𝗹 𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗔𝗜
 <br><br>💬 Ask me about 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
 <br><br>📫 How to reach me: 𝗮𝗷𝗶𝘁𝗵𝗸𝘂𝗺𝗮𝗿𝟮𝟬𝟬𝟱𝟯𝟲@𝘇𝗼𝗵𝗼𝗺𝗮𝗶𝗹.𝗶𝗻
