@@ -11,7 +11,8 @@
 <br><br>💬 Ask me about 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
 <br><br>📫 How to reach me: 𝗮𝗷𝗶𝘁𝗵𝗸𝘂𝗺𝗮𝗿𝟮𝟬𝟬𝟱𝟯𝟲@𝘇𝗼𝗵𝗼𝗺𝗮𝗶𝗹.𝗶𝗻
 <br><br>⚡ Fun fact: 𝗜 𝗮𝗺 𝗳𝘂𝗻𝗻𝘆
-<br><br>🌐 👉 [View my portfolio](https://ajithkumar-portfolio.vercel.app)
+<br><br>🌐 👉 **Portfolio**: [🔗](https://ajithkumar-portfolio.vercel.app)
+
 
 
 ## 🌐 Socials:
@@ -48,7 +49,7 @@
 <br>
 
 ---
-[![Visiter Count](https://visitcount.itsvg.in/api?id=ajithkumar200513&icon=6&color=4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ajithkumar200513&icon=6&color=4)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AJITHKUMAR436174) 
