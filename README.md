@@ -6,16 +6,13 @@
 💫 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:
 <br><br> 🌱 I’m currently learning 𝗙𝘂𝗹𝗹 𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲
 <br><br> 💬 Ask me about 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
-<br><br> 🌐 Portfolio: <a href="https://ajithkumar-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Link">
-</a>
 <br><br> 📫 How to reach me: 𝗮𝗷𝗶𝘁𝗵𝗸𝘂𝗺𝗮𝗿𝟮𝟬𝟬𝟱𝟯𝟲@𝘇𝗼𝗵𝗼𝗺𝗮𝗶𝗹.𝗶𝗻
 <br><br> ⚡ Fun fact: 𝗜 𝗮𝗺 𝗳𝘂𝗻𝗻𝘆
 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/itz.ajith_kumar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/1ajithkumar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AJITHKUMAR20050) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajithkumar200536@zohomail.in) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/itz.ajith_kumar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/1ajithkumar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AJITHKUMAR20050) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajithkumar200536@zohomail.in) [![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=About.me&logoColor=white)](https://ajithkumar-portfolio.vercel.app/)
 <br>
 <br>
 
