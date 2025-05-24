@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ajith kumar</h1>
 <h3 align="center">A passionate full stack developer and Machine Learning Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3c5ZTRkeDN5aDdwaGc5bXg0N295YjBoNjB2ZjlkZnFlZHIwczJ6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<br>
 💫 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:
 🌱 I’m currently learning 𝗙𝘂𝗹𝗹 𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲
 <br>💬 Ask me about 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
