@@ -2,12 +2,13 @@
 <h1 align="center">Hi 👋, I'm Ajith kumar</h1>
 <h3 align="center">A passionate full stack developer and Machine Learning Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3c5ZTRkeDN5aDdwaGc5bXg0N295YjBoNjB2ZjlkZnFlZHIwczJ6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
- 💫 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:
-<br><br>    🌱 I’m currently learning 𝗙𝘂𝗹𝗹 𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁,𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲
-<br><br>    💬 Ask me about 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
- <br><br>    📫 How to reach me 𝗮𝗷𝗶𝘁𝗵𝗸𝘂𝗺𝗮𝗿𝟮𝟬𝟬𝟱𝟯𝟲@𝘇𝗼𝗵𝗼𝗺𝗮𝗶𝗹.𝗶𝗻<br><br>    ⚡ Fun fact 𝗜 𝗮𝗺 𝗳𝘂𝗻𝗻𝘆<br>
-<br>
-<br>
+💫 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:
+<br><br> 🌱 I’m currently learning 𝗙𝘂𝗹𝗹 𝘀𝘁𝗮𝗰𝗸 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗮𝗻𝗱 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲
+<br><br> 💬 Ask me about 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
+<br><br> 🌐 Portfolio: <a href="https://ajithkumar-portfolio.vercel.app/" target="_blank">ajithkumar-portfolio.vercel.app</a>
+<br><br> 📫 How to reach me: 𝗮𝗷𝗶𝘁𝗵𝗸𝘂𝗺𝗮𝗿𝟮𝟬𝟬𝟱𝟯𝟲@𝘇𝗼𝗵𝗼𝗺𝗮𝗶𝗹.𝗶𝗻
+<br><br> ⚡ Fun fact: 𝗜 𝗮𝗺 𝗳𝘂𝗻𝗻𝘆
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/itz.ajith_kumar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/1ajithkumar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AJITHKUMAR20050) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajithkumar200536@zohomail.in) 
