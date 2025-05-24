@@ -11,7 +11,8 @@
 <br><br>💬 Ask me about 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁
 <br><br>📫 How to reach me: 𝗮𝗷𝗶𝘁𝗵𝗸𝘂𝗺𝗮𝗿𝟮𝟬𝟬𝟱𝟯𝟲@𝘇𝗼𝗵𝗼𝗺𝗮𝗶𝗹.𝗶𝗻
 <br><br>⚡ Fun fact: 𝗜 𝗮𝗺 𝗳𝘂𝗻𝗻𝘆
-<br><br>🌐 👉 **Portfolio**: [🔗](https://ajithkumar-portfolio.vercel.app)
+<br><br>🌐 👉 [![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge)](https://ajithkumar-portfolio.vercel.app)
+
 
 
 
